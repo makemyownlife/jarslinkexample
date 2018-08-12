@@ -16,6 +16,12 @@
             <version>1.5.0.20180213</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+            <version>4.0.2.RELEASE</version>
+        </dependency>
+
     </dependencies>
 
 
